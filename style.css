@@ -1,0 +1,85 @@
+.calcbody {
+    background-color: rgb(37, 37, 37);
+    color: white;
+    width: 320px;
+
+}
+
+.display {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: right;
+    width: 300px;
+    height: 120px;
+}
+
+.displaytxt {
+    padding-top: 10px;
+}
+
+.displaytxt2 {
+    color: rgb(112, 112, 112);
+    padding-top: 40;
+    font-size: 22px;
+}
+
+.mcmr {
+    padding-top: 25px;
+    padding-bottom: 8px;
+}
+
+.db {
+    background-color: rgb(37, 37, 37);
+    color: rgb(112, 112, 112);
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    padding-left: 15px;
+    padding-right: 8px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.db:hover {
+
+    background-color: rgb(37, 37, 37);
+}
+
+.mcbt {
+    background-color: rgb(37, 37, 37);
+    color: white;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    padding-left: 15px;
+    padding-right: 8px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+button {
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: rgb(94, 94, 94);
+}
+
+.keys {
+    display: grid;
+    grid-template-columns: 80px 80px 80px 80px;
+}
+
+.keybt {
+    background-color: rgb(71, 71, 71);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 17px;
+    padding: 14px;
+}
+
+.eq {
+    background-color: rgb(0, 195, 255);
+    color: rgb(27, 27, 27);
+    font-size: 22px;
+}
